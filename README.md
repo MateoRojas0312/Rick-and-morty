@@ -1,3 +1,4 @@
+[app-release.zip](https://github.com/MateoRojas0312/Rick-and-morty/files/8261435/app-release.zip)
 # rick_and_morty
 
 A new Flutter project.

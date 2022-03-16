@@ -6,11 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+1) Clonar el repositorio y ejecutar en un terminal flutter pub get
+2) Si se desea ejecutar en un emulador preferiblemente que sea android-x86    • Android 10 (API 29) (emulator)
+3) Se adjunta tambien los diferentes archivos apks
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

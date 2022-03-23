@@ -12,3 +12,5 @@ This project is a starting point for a Flutter application.
 3) Se adjunta tambien los diferentes archivos apks
 
 ![screen1](https://user-images.githubusercontent.com/49171526/159732261-16cb2038-d8de-4969-bf40-ebbe7fbb33d9.JPG)
+
+![Screen 2](https://user-images.githubusercontent.com/49171526/159732380-76878529-334b-4346-b4d2-720cd9866c90.JPG)
